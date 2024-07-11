@@ -1,0 +1,10 @@
+{
+    "id": "pdf-snippet-copier",
+    "name": "PDF Snippet Copier",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "Copy a PDF snippet to the clipboard with a right-click",
+    "author": "fremdkoerper",
+    "authorUrl": "https://github.com/fremdkoerper",
+    "isDesktopOnly": true
+}
