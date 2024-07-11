@@ -21,3 +21,9 @@ Confirming the window with the for button by pressing Enter will copy the code b
 ```
 
 I may extend the dialogue box to quickly enter other tags like `scale` or a toggle button for `link`.
+
+# Installation
+- Clone / download the repository
+- Copy the `pdf-snippet-copier` folder to `.obsidian\plugins\`
+- Enable the plugin
+- Configure the hotkey (`PDF Snipped Copier: Copy PDF Snipped`), default is `Ctrl+S`
